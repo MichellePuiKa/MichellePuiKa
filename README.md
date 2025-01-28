@@ -3,4 +3,4 @@
 Sharing about my journey and learnings in tech<br/>
 Studied [Data Analytics Bootcamp](https://uk.generation.org/programs/data-analytics/) at Generation UK <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMichellePuiKa=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMichellePuiKa=anuraghazra)]
